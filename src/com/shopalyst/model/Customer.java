@@ -2,7 +2,10 @@ package com.shopalyst.model;
 
 import java.util.List;
 
-
+/**
+ * @author Rafne [Email: rafneesh@gmail.com]
+ *
+ */
 public class Customer {
 	
 	String customerId;
